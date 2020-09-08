@@ -1,138 +1,177 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Sabin Subedi",
+    "occupation": "Front-End Developer && Youtuber @Better Dev",
+    "description": "Freelancer At Upwork & Fiverr. Current High School Student #Betterdev",
+    "image": "about-image.jpg",
+    "bio": "I'm Sabin, a web designer & front‑end developer from Nepal focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.I'm very enthusiast about the Technology and Designs. I love what I do and want to be the par of the Global Tech community.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "sabin79@sabinsubedi.tech",
+    "phone": "+977 9869606910",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Pabitranagar,kathmandu",
+      "city": "Kathmandu",
+      "state": "Nepal",
+      "zip": "44600"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://sabinsubedi.tech",
+    "resumedownload": "https://sabinsubedi.tech",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/sabin.subedi.737",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
-        "className": "fa fa-linkedin"
+        "url": "https://www.youtube.com/c/BetterDev",
+        "className": "fa fa-youtube"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/sabin_subeds/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Sabin-Subedi",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are Some of the skills that I Know.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "BhanuBhakta Memorial Higher Secondary School",
+        "degree": "Primary Level Education",
+        "graduated": "2019",
+        "description": "Graduated with 3.7 GPA"
+      },
+      {
+        "school": "St. Xavier's College, Maitighar Kathmandu",
+        "degree": "Higher Secondary level",
+        "graduated": "2019-present",
+        "description": "Expected to graduate in 2021"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
+        "company": "Better Dev(Youtube Channel)",
+        "title": "Content Maker",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": "Making Web design stuffs and tools video"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Upwork",
+        "title": "Front-End Devloper",
+        "years": "April 2020 - present",
+        "description": "Freelancing and earning the pocket money"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "HTML/CSS",
+        "level": "90%",
+        "img": "html_css.svg"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Javascript",
+        "level": "90%",
+        "img": "javascript.svg"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Bootstrap",
+        "level": "80%",
+        "img": "bootstrap.svg"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Sass",
+        "level": "55%",
+        "img": "sass.svg"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "python",
+        "level": "85%",
+        "img": "python.svg"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "React",
+        "level": "80%",
+        "img": "react.svg"
+      },
+      {
+        "name": "Material Ui",
+        "level": "80%",
+        "img": "materialui.svg"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%",
+        "img": "Firebase.svg"
+      },
+      {
+        "name": "React",
+        "level": "80%",
+        "img": "react.svg"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "80%",
+        "img": "xd.svg"
+      },
+      {
+        "name": "Figma",
+        "level": "80%",
+        "img": "figma.svg"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "COVID-19 Tracker",
+        "category": "This is the Covid-19 Tracker made Using React, Material UI. I have used the disease.sh API to get the data.",
+        "image": "covid-19.png",
+        "url": "https://covid-19-tracker-3ccbc.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "React Twitter Clone",
+        "category": "This is the Twitter Clone made Using React, Material UI and Firebase is used for realtime database and deployment.",
+        "image": "twitter-clone.png",
+        "url": "https://twiiter-clone-d98f6.web.app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Adidas Landing Page",
+        "category": "https://twiiter-clone-d98f6.web.app/",
+        "image": "Adidas.png",
+        "url": "https://adidas-landing-pa.web.app/"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "category": "This is the Netflix Clone using HTML, CSS and Javascript. This is made for practise purpose.",
+        "image": "netflix-clone.png",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "COVID-19 Landing Page",
+        "category": "This is the Covid-19 landing page made using HTMl and CSS. This project is made for the content of my youtube channel.",
+        "image": "covid-landing.png",
+        "url": "https://covid-landing-68fc8.web.app/"
+      },
+      {
+        "title": "Travel Landing Page",
+        "category": "This is the Travel Landin Page made using HTML, CSS and Javascript. This site is made for the youtube channel content.",
+        "image": "travel.png",
+        "url": "https://travel-landing.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Sagar Sharma-Product manager"
       }
     ]
   }
